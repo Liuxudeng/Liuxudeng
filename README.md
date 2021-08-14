@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=Liuxudeng&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liuxudeng&layout=compact&theme=gruvbox)](https://github.com/Liuxudeng/github-readme-stats)
+
